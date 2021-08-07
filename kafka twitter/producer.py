@@ -1,9 +1,9 @@
 """API ACCESS KEYS"""
 
-access_token = "716707878963437568-ixoiIjNZoB1sonJcuEyLN54lbvJhzfU"
-access_token_secret = "M3WzStqcoYroGwMMxOAQzixIuVaCxJlloYbZUBXOQaDcl"
-consumer_key = "PGFgjXVjjxBm12LKSQuh0svpw"
-consumer_secret = "p79muCs178jRExysGoOMGa8C9YaYqISXbC06LGLEYBJDvJORyr"
+access_token = ""
+access_token_secret = ""
+consumer_key = ""
+consumer_secret = ""
 
 
 from tweepy.streaming import StreamListener
